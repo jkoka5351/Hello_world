@@ -1,5 +1,0 @@
-<properties>
-    <sonar.projectKey>your_project_key</sonar.projectKey>
-    <sonar.organization>your_organization</sonar.organization>
-    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-</properties>
