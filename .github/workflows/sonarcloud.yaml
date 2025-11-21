@@ -13,7 +13,7 @@ jobs:
     steps:
       - name: Check out the code
         uses: actions/checkout@v3
-      
+
       - name: SonarCloud Scan
         uses: SonarSource/sonarcloud-github-action@v1
         env:
